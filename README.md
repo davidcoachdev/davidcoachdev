@@ -99,7 +99,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8ETesting" alt="Testing" />
 </h4>
 <p align="center">
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png?w=364&ssl=1" alt="cypress" width="40" height="40"/> </a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Mh38QXF.png" alt="cypress" width="40" height="40"/> </a>
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
@@ -111,8 +111,8 @@
 </h4>
 <p align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" textcolor="#f00000" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-experience-design-1.svg" alt="xd" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="figma"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -145,7 +145,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=David-Coach-Dev&label=DcDevRep&color=9b0706&style=flat-square" alt="DcDevRep" />
   <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b.svg" alt="dcdevwaka" />
-  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18102%26project%3D%26in%3D0">
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D18102" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=David-Coach-Dev.David-Coach-Dev&right_color=darkred"  />
   <img src="https://raw.githubusercontent.com/David-Coach-Dev/David-Coach-Dev/output/snake.svg" alt="Snake animation" />
  </p>
@@ -162,28 +162,7 @@
 <h1></h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=David-Coach-Dev&fire=FFFC00&stroke=9b0706&background=000000&border=9b0706&ring=9b0706&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03FF00&sideLabels=1F00FF&dates=FFFFFF" alt="David-Coach-Dev" />
-</p>
-<h1></h1>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=David-Coach-Dev&show_icons=true&theme=dark&title_color=fa0000&text_color=ffffff&locale=en" alt="David-Coach-Dev" />
-</p>
-<h1></h1>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DcDev&show_icons=true&theme=dark&title_color=9b0706&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
-</p>
-
-<h1></h1>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Coach-Dev&show_icons=true&theme=dark&title_color=9b0706&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
-</p>
-<h1></h1>
-
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=David-Coach-Dev&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="David-Coach-Dev" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=davidcoachdev&theme=monokai&column=4&margin-w=15&margin-h=15" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 
