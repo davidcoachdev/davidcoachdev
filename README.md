@@ -156,7 +156,7 @@
 <img style="width: 100%" src="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/snake.svg" alt="Snake animation" />
 
 <h1></h1> 
-</br>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph.svg">
