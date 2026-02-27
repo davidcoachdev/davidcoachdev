@@ -151,6 +151,13 @@
  </p>
 
 <h1></h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidcoachdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidcoachdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidcoachdev/output/pacman-contribution-graph.svg">
+</picture>
+
+<h1></h1>
 <p align="center">
   <a href="https://app.daily.dev/dcdev"><img src="https://api.daily.dev/devcards/e23c14e4f4404c7da21e0997405ce7a2.png?r=ou8" width="400" alt="Dc Dev's Dev Card"/></a>
 </p>
