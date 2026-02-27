@@ -147,8 +147,14 @@
   <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b.svg" alt="dcdevwaka" />
   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D18102" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=David-Coach-Dev.David-Coach-Dev&right_color=darkred"  />
-  <img src="https://raw.githubusercontent.com/David-Coach-Dev/David-Coach-Dev/output/snake.svg" alt="Snake animation" />
- </p>
+</p>
+
+<h1></h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <h1></h1>
 <picture>
