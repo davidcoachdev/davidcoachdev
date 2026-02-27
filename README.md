@@ -160,7 +160,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph.svg">
-    <img style="width: 100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph.svg">
   </picture>
 
 <h1></h1>
