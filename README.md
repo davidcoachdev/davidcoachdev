@@ -1,3 +1,5 @@
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ff0000"  />
+
 <p align="center">
  <img align="center" src="https://i.imgur.com/974cKFd.png" alt="banner" />
 </p>
@@ -150,14 +152,16 @@
 </p>
 
 <h1></h1>
-<img src="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/snake.svg" alt="Snake animation" />
 
-<h1></h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph.svg">
-</picture>
+<img style="width: 100%" src="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/snake.svg" alt="Snake animation" />
+
+<h1></h1> 
+</br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph.svg">
+    <img style="width: 100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidcoachdev/davidcoachdev/output/pacman-contribution-graph.svg">
+  </picture>
 
 <h1></h1>
 <p align="center">
@@ -185,6 +189,4 @@
     <img align="center" src="https://github.com/dcdevrep/dcdevrep/blob/main/gif/skyline_github_2023.gif?raw=true" alt="David-Coach-Dev" />
  
 </p>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ff0000"  />
-</div>
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ff0000"  /> 
