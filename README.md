@@ -152,9 +152,9 @@
 
 <h1></h1>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidcoachdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidcoachdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidcoachdev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
 
 <h1></h1>
@@ -165,11 +165,6 @@
 
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ab206514678473bb5cbdc3?variant=dark" alt="roadmap.sh"/></a>
-</p>
-<h1></h1>
-
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=davidcoachdev&theme=monokai&column=4&margin-w=15&margin-h=15" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 
