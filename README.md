@@ -3,7 +3,9 @@
 <p align="center">
  <img align="center" src="https://i.imgur.com/974cKFd.png" alt="banner" />
 </p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Coach+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="David-Coach-Dev" />
+
 <h1></h1>
 
 <h3 align="center">
@@ -21,20 +23,22 @@
 <p>🚀 Experience in DevOps with Docker, Git, and CI/CD using GitHub Actions; deployments on AWS, Vercel, Netlify, and Heroku. Project management with Trello, Jira, and GitHub Projects under Agile/Scrum methodologies.</p>
 
 <p>🌍 Open to 100% remote opportunities to be part of innovative projects, tackle technical challenges, and deliver real impact in every initiative.</p>
+
 </h3>
+
 <h1></h1>
 
 <h3 align="center">
      <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%A7++Connect+with+me" alt="Connect with me" />
 </h3>
-<p align="stretch">
+
  <a href="https://www.linkedin.com/in/davidcoachdev/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
  </a>
  <a href="https://davidcoach.dev" target="_blank">
   <img src="https://i.imgur.com/rhjtvtc.png" alt="DcDevWeb" height="40" width="40" />
  </a>
-</p>
+
 <h1></h1>
 
 <h4 align="center">
