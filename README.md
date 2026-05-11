@@ -1,6 +1,6 @@
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ff0000"  />
 
-<p style="align-items: flex-start">
+<p align="left">
  <img align="center" src="https://i.imgur.com/974cKFd.png" alt="banner" />
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Coach+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="David-Coach-Dev" />
