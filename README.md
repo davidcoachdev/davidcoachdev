@@ -78,7 +78,7 @@
 <h4 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%9B%A2%EF%B8%8FDatabase" alt="Database" />
 </h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div styles="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" alt="mariadb" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
